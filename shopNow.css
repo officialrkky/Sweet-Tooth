@@ -30,8 +30,35 @@ grid-area: footer;
   grid-row: 5 / 6;
 }
 
+/* Color Effects */
+/*
+neutral white - #fdfbf7
+neutral black - #0e0f15;
+neutral beige - #f4e7ce
+secondary blue - #203ad8;
+accents pink - #ff2498;
+accents yellow- #f2a51c
+*/
 
+.header{
+  background-color: #203ad8;
+  color: #fdfbf7;
+}
 
+.trainContainer{
+  background-color: #fdfbf7;
+  color: #101118;  
+}
+
+.snacksFilter, .snacksDisplay{
+  background-color: #f4e7ce;
+  color: #101118;   
+}
+
+.footer{
+  background-color: #203ad8;
+  color: #fdfbf7;
+}
 
 
 
