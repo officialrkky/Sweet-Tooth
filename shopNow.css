@@ -61,6 +61,10 @@ accents yellow- #f2a51c
 }
 
 /* Snacks Filter Effects */
+.snacksArea{
+padding-top:30px;
+}
+
 .snacksFilter ul{
 display: flex;
 flex-direction: row;
@@ -85,6 +89,12 @@ background-color: #203ad8;
 
 
 /* Train Effects */
+.trainArea{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .trainContainer{
   width: 225px;
   margin:auto;
