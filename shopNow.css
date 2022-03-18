@@ -1,3 +1,45 @@
+/* Grid Effects */
+body{
+  display: grid;
+  grid-template-rows: 50px 400px 1fr 50px;
+  grid-template-areas: "header" "trainContainer" "snacksDisplay" "footer";
+}
+
+.header{
+grid-area: header;
+grid-row: 1 / 2;
+}
+
+.trainContainer{
+grid-area: trainContainer;
+  grid-row: 2 / 3;
+}
+
+.snacksDisplay{
+grid-area: snacksDisplay;
+  grid-row: 3 / 4;
+}
+
+.footer{
+grid-area: footer;
+  grid-row: 4 / 5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Train Effects */
 .trainContainer{
   width: 225px;
   margin:auto;
