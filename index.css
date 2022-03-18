@@ -134,10 +134,6 @@ body{
   margin: 0px;
   padding: 0px;
 }
-.header{
-height: 50px;
-padding: 5px 5px;
-}
 .page1{
 height: 700px;
 padding: 20px 20px;
@@ -149,10 +145,6 @@ padding: 20px 20px;
 .page3{
 height: 500px;
 padding: 20px 20px; 
-}
-.footer{
-height: 50px;
-padding: 5px 50px;
 }
 
 /* background and font color */
