@@ -1,6 +1,8 @@
 /* font size */
 *{
 font-family: "Bubblegum Sans";
+margin: 0px;
+  padding: 0px;
 }
 /* Header Style */
 .header{
