@@ -107,6 +107,9 @@ background-color: #ff2498;
 
 /* Snacks Display */
 .snacksDisplay{
+  margin: 0 auto;
+}
+.snacksDisplay{
   display:grid;
   grid-template-rows: repeat(6, 500px);
   grid-template-columns: repeat(3, 400px);
