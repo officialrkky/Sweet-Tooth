@@ -61,6 +61,6 @@ margin: 0px;
 }
  
 .header, .footer{
-margin-top:16px;
-margin-bottom:16px;
+padding-top:16px;
+padding-bottom:16px;
 }
