@@ -117,6 +117,12 @@ background-color: #203ad8;
   height: 400px;
 }
 
+
+
+#item1, #item2, #item3, #item4, #item5, #item6, #item7, #item8, #item9, #item10, #item11, #item12, #item13, #item14, #item15, #item16, #item17, #item18{
+background-color: #f4e7ce;
+}
+
 #item1{
   grid-area: item1;
   grid-column: 1 / 2;
