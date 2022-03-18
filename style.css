@@ -1,4 +1,4 @@
-/* header and footer edits */
+/* Header Style */
 .header{
   width: 100%;
 }
@@ -11,15 +11,18 @@
 
 .header li{
   list-style: none;
+  text-decoration: none;
 }
 
 .header a:hover{
-  color: #f4e7ce;
+  color: #0e0f15;
 }
 
 #mainTitle{
   font-weight: bold;
 }
+
+/* Footer Style */
 
 .footer{
   width: 100%;
@@ -36,9 +39,10 @@
 }
 
 .footer a:hover{
-  color: #f4e7ce;
+  color: #0e0f15;
 }
 
 #copyTitle{
   font-weight: bold;
 }
+ 
