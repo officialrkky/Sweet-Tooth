@@ -214,6 +214,8 @@ accents yellow- #f2a51c
 /* links design */
 a{
   color: white;
+  text-decoration:none;
+  link-style:none;
 }
 
 
