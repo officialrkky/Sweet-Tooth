@@ -60,10 +60,6 @@ margin: 0px;
   font-weight: bold;
 }
  
-/* flex */
 .header, .footer{
-display: flex;
-flex-direction: row;
-justify-content: space-around;
-align-items: center;
+margin: auto;
 }
