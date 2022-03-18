@@ -60,7 +60,20 @@ accents yellow- #f2a51c
   color: #fdfbf7;
 }
 
+/* Snacks Filter Effects */
+.snacksFilter{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+}
 
+.snacksFilter li{
+list-style: none;
+padding: 15px;
+border-radius: 25px;
+background-color: #203ad8;
+}
 
 
 
