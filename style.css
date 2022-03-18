@@ -1,0 +1,44 @@
+/* header and footer edits */
+.header{
+  width: 100%;
+}
+
+.header ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.header li{
+  list-style: none;
+}
+
+.header a:hover{
+  color: #f4e7ce;
+}
+
+#mainTitle{
+  font-weight: bold;
+}
+
+.footer{
+  width: 100%;
+}
+
+.footer ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.footer li{
+  list-style: none;
+}
+
+.footer a:hover{
+  color: #f4e7ce;
+}
+
+#copyTitle{
+  font-weight: bold;
+}
