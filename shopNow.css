@@ -105,3 +105,17 @@ background-color: #203ad8;
   display: flex;
   height: 300px;
 }
+
+
+
+/* Snacks Display
+.snacksDisplay{
+  display:grid;
+  grid-template-rows: ;
+  grid-template-columns: ;
+}
+*/
+
+.cupcakes, .cookies, .bread, .cake, .tarts, .muffin{
+  height: 400px;
+}
