@@ -61,7 +61,7 @@ accents yellow- #f2a51c
 }
 
 /* Snacks Filter Effects */
-.snacksFilter, .snacksFilter li{
+.snacksFilter ul{
 display: flex;
 flex-direction: row;
 justify-content: space-around;
