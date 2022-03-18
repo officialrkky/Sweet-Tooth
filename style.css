@@ -1,3 +1,7 @@
+/* font size */
+*{
+font-family: "Bubblegum Sans";
+}
 /* Header Style */
 .header{
   width: 100%;
