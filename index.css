@@ -87,6 +87,13 @@ body{
 
 
 /* flexbox layout */
+.header, .footer{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+align-items: center;
+}
+
 .page1{
   margin: 0 auto;
  
@@ -226,18 +233,19 @@ a{
   color: white;
 }
 
+
 .page1 a{
   background-color: #ff2498;
   padding: 15px;
   border-radius: 25px;
-  margin: 5px;
+  margin: 10px;
 }
 
 .page2 a{
   background-color: #203ad8;
   padding: 15px;
   border-radius: 25px;
-  margin: 5px;
+  margin: 10px;
   
 }
 
@@ -245,6 +253,6 @@ a{
   background-color: #203ad8;
   padding: 15px 25px;
   border-radius: 25px;
-  margin: 5px;
+  margin: 10px;
   
 }
