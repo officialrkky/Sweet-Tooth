@@ -108,6 +108,7 @@ background-color: #ff2498;
 /* Snacks Display */
 .snacksDisplay{
   margin: 0 auto;
+  padding-left: 100px;
 }
 .snacksDisplay{
   display:grid;
