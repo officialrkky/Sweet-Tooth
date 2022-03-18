@@ -1,0 +1,10 @@
+.trainContainer{
+  width: 225px;
+  margin:auto;
+  overflow: hidden;
+}
+
+.trainSlide{
+  display: flex;
+  height: 300px;
+}
