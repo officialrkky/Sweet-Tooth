@@ -22,12 +22,14 @@ body{
 .header{
   background-color: #203ad8;
   color: #fdfbf7;
+  width: 100%;
 }
 
 
 .footer{
   background-color: #203ad8;
   color: #fdfbf7;
+  width: 100%;
 }
 
 .snacksDisplay{
