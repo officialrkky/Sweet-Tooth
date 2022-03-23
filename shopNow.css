@@ -1,3 +1,35 @@
+body{
+  height: 2350px;
+  display: grid;
+  grid-template-rows: 50px 1fr 50px;
+  grid-template-area: 
+    "header" "snacksDisplay" "footer" ;
+  grid-gap: 0px;
+}
+.header{
+  grid-area:header;
+  grid-row: 1 / 2;
+}
+.snacksDisplay{
+  grid-area:snacksDisplay;
+  grid-row: 2 / 3;
+}
+.footer{
+  grid-area:footer;
+  grid-row: 3 / 4;
+}
+
+.header{
+  background-color: #203ad8;
+  color: #fdfbf7;
+}
+
+
+.footer{
+  background-color: #203ad8;
+  color: #fdfbf7;
+}
+
 .snacksDisplay{
   display: grid;
   flex-direction: row;
