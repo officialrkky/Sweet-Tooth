@@ -17,6 +17,105 @@ let addToCartBtn16 = document.querySelector('.addToCartBtn16');
 let addToCartBtn17 = document.querySelector('.addToCartBtn17');
 let addToCartBtn18 = document.querySelector('.addToCartBtn18');
 
+addToCartBtn1.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn2.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn3.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn4.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn5.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn6.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn7.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn8.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn9.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn10.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn11.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn12.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn13.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn14.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn15.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn16.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn17.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+addToCartBtn18.addEventListener('click', () => {
+ setTimeout(changeText, 500)
+})
+
+function changeText(){
+  addToCartBtn1.innerHTML = "Added";
+  setTimeout(changeTextBack, 2000)
+}
+
+function changeTextBack(){
+  addToCartBtn1.innerHTML = "Add to Cart";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 let item1Name = document.querySelector('.item1Name');
 let item2Name = document.querySelector('.item2Name');
 let item3Name = document.querySelector('.item3Name');
